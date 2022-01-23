@@ -339,7 +339,7 @@
 	icon = 'icons/obj/machines/BFL_Mission/Hole.dmi'
 	icon_state = "Lens_Pull"
 	max_integrity = 40
-	layer = ABOVE_OBJ_LAYER
+	layer = ABOVE_MOB_LAYER
 	density = 1
 
 	var/step_count = 0
